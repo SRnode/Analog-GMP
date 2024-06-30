@@ -4,7 +4,7 @@ Send a message using a GMP gateway contract on Shibuya Testnet (Daily)
 
 Masih sama kaya kemarin pake Remix ❗️
 
-1. Create file BranchlessMath.sol & copy script (https://github.com/Analog-Labs/analog-gmp/blob/42a7223b44141a9028f39c7aff9f6cd9c75c1196/src/utils/BranchlessMath.sol) berikut paste kedalam file
+1. Create file BranchlessMath.sol & copy script (https://github.com/SRnode/Analog-GMP/blob/main/BranchlessMath.sol) berikut paste kedalam file
 
 2. Create file Primitives.sol & copy script (https://github.com/Analog-Labs/analog-gmp/blob/42a7223b44141a9028f39c7aff9f6cd9c75c1196/src/Primitives.sol) berikut paste kedalam file
 
